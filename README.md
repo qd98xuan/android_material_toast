@@ -14,7 +14,7 @@ llprojects {
 build.gradle(app)  
 ```
 dependencies {
-	implementation 'com.github.qd98xuan:material_toast:Tag'
+	implementation 'com.github.qd98xuan:android_material_toast:1.0'
 }
 ```
 ## 参数：
